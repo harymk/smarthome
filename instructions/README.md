@@ -1,8 +1,8 @@
 # Instructions
 
 
-## skill-sample-nodejs-smarthome-switch
-These instructions are to build a Sample Alexa Smart Home skill using JavaScript with Node.js that creates and controls a virtual sample switch that responds to ON/OFF commands.
+## smarthome
+These instructions are to build a Sample Alexa Smart Home skill using JavaScript with Node.js that creates and controls a virtual sample switch that responds to all commands.
 
 ## Setup the Alexa Smart Home Sample via the Alexa Developer Console
 
